@@ -1,0 +1,50 @@
+{
+    "ticket_categories": {
+        "member_support": {
+            "label": "Member Support",
+            "emoji": "👥",
+            "type": "ticket"
+        },
+        "coaching": {
+            "label": "Coaching / Development",
+            "emoji": "🧑‍🏫",
+            "type": "channel"
+        },
+        "administration": {
+            "label": "Alliance Administration",
+            "emoji": "📩",
+            "type": "ticket"
+        },
+        "communications": {
+            "label": "Communications",
+            "emoji": "📢",
+            "type": "ticket"
+        },
+        "report": {
+            "label": "Report an Issue",
+            "emoji": "📝",
+            "type": "ticket"
+        },
+        "suggestion": {
+            "label": "Suggestion / Feedback",
+            "emoji": "💡",
+            "type": "channel"
+        },
+        "other": {
+            "label": "Other",
+            "emoji": "❓",
+            "type": "ticket"
+        }
+    },
+
+    "roles": {
+        "staff": "Northstar Staff",
+        "coaches": "Coaches"
+    },
+
+    "channels": {
+        "coaching": "coaching-development",
+        "suggestions": "suggestions",
+        "ticket_category": "Tickets"
+    }
+}
